@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 260573858, "amenity": "pharmacy", "nearest_node": 3843390629 }, "geometry": { "type": "Point", "coordinates": [ 7.1926548, 51.5071935 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 260573859, "amenity": "bank", "nearest_node": 8572691157 }, "geometry": { "type": "Point", "coordinates": [ 7.1885683, 51.5023108 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 797743276, "amenity": "fast_food", "nearest_node": 1628473510 }, "geometry": { "type": "Point", "coordinates": [ 7.2128413, 51.5036676 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1039196924, "amenity": "fast_food", "nearest_node": 9332721261 }, "geometry": { "type": "Point", "coordinates": [ 7.1891575, 51.5084541 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1328491168, "amenity": "restaurant", "nearest_node": 1338003461 }, "geometry": { "type": "Point", "coordinates": [ 7.2113598, 51.4989578 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1338003360, "amenity": "pub", "nearest_node": 6451525697 }, "geometry": { "type": "Point", "coordinates": [ 7.2127254, 51.5032056 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1367821983, "amenity": "nightclub", "nearest_node": 666779116 }, "geometry": { "type": "Point", "coordinates": [ 7.1886123, 51.5084272 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1540510700, "amenity": "pharmacy", "nearest_node": 1561228001 }, "geometry": { "type": "Point", "coordinates": [ 7.1883644, 51.5032855 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1580119845, "amenity": "atm", "nearest_node": 8572691157 }, "geometry": { "type": "Point", "coordinates": [ 7.1886218, 51.5023483 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1638092296, "amenity": "restaurant", "nearest_node": 3843390589 }, "geometry": { "type": "Point", "coordinates": [ 7.1925716, 51.5069826 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1702580568, "amenity": "restaurant", "nearest_node": 1583342120 }, "geometry": { "type": "Point", "coordinates": [ 7.2238596, 51.5046772 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4692623751, "amenity": "fast_food", "nearest_node": 1320894692 }, "geometry": { "type": "Point", "coordinates": [ 7.2058452, 51.5001063 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5547693791, "amenity": "restaurant", "nearest_node": 1566729544 }, "geometry": { "type": "Point", "coordinates": [ 7.1889543, 51.5080375 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 5580610899, "amenity": "restaurant", "nearest_node": 1566729538 }, "geometry": { "type": "Point", "coordinates": [ 7.1886345, 51.5080518 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6591469789, "amenity": "atm", "nearest_node": 1039178717 }, "geometry": { "type": "Point", "coordinates": [ 7.1925764, 51.5066627 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 7830043323, "amenity": "fast_food", "nearest_node": 1880122395 }, "geometry": { "type": "Point", "coordinates": [ 7.2057925, 51.4981276 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9082466248, "amenity": "fast_food", "nearest_node": 6135715278 }, "geometry": { "type": "Point", "coordinates": [ 7.1988439, 51.5019187 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 89666436, "amenity": "fast_food", "nearest_node": 1039178289 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1901804, 51.5081797 ], [ 7.1901749, 51.5080456 ], [ 7.1904933, 51.5080448 ], [ 7.1904946, 51.5081763 ], [ 7.1901804, 51.5081797 ] ] ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 89666446, "amenity": "fast_food", "nearest_node": 3843390608 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1917144, 51.5070572 ], [ 7.1917122, 51.5069902 ], [ 7.1918625, 51.5069883 ], [ 7.1918647, 51.5070553 ], [ 7.1917144, 51.5070572 ] ] ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 89666455, "amenity": "fast_food", "nearest_node": 9968346443 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.1902383, 51.5093266 ], [ 7.1904554, 51.5093253 ], [ 7.1904541, 51.509241 ], [ 7.1904681, 51.5092409 ], [ 7.1904676, 51.50921 ], [ 7.1904556, 51.5092101 ], [ 7.1904545, 51.5091435 ], [ 7.1904678, 51.5091434 ], [ 7.1904674, 51.5091177 ], [ 7.1904552, 51.5091178 ], [ 7.190454, 51.5090441 ], [ 7.1904535, 51.509013 ], [ 7.1903246, 51.5090138 ], [ 7.1903255, 51.5090675 ], [ 7.1902086, 51.5090682 ], [ 7.1902116, 51.5092537 ], [ 7.1902371, 51.5092536 ], [ 7.1902383, 51.5093266 ] ] ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 173316700, "amenity": "theatre", "nearest_node": 9611218272 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.2079842, 51.5042419 ], [ 7.2083473, 51.5042792 ], [ 7.2084103, 51.5040413 ], [ 7.2080545, 51.5040049 ], [ 7.2080402, 51.504059 ], [ 7.2079478, 51.5040495 ], [ 7.2079281, 51.5041242 ], [ 7.2079742, 51.504129 ], [ 7.2079636, 51.504169 ], [ 7.2080024, 51.5041729 ], [ 7.2079842, 51.5042419 ] ] ] } }
+]
+}
